@@ -1,0 +1,4 @@
+baseURL = "https://blog.hidelberq.com/"
+languageCode = "en-us"
+title = "hidelberq blog"
+theme = "ananke"
